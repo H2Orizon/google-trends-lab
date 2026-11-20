@@ -1,0 +1,6 @@
+search_term,max,mean,min,count,peak_date,category
+ChatGPT,100.0,73.50943396226415,51.0,53,2025-11-30,AI
+Data Science,5.0,2.2169811320754715,0.0,53,2026-02-15,Analytics
+Docker,19.0,9.90566037735849,4.0,53,2026-09-13,DevOps
+Machine Learning,16.0,4.490566037735849,0.0,53,2026-09-13,AI
+Python,60.0,27.81132075471698,14.0,53,2026-03-29,Programming

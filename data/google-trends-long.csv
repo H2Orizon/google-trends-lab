@@ -1,0 +1,266 @@
+date,search_term,interest,category,change_by,change
+2025-11-16,ChatGPT,95.0,AI,,Unknown
+2025-11-23,ChatGPT,99.0,AI,4.0,Growth
+2025-11-30,ChatGPT,100.0,AI,1.0,Growth
+2025-12-07,ChatGPT,96.0,AI,-4.0,Decline
+2025-12-14,ChatGPT,94.0,AI,-2.0,Decline
+2025-12-21,ChatGPT,80.0,AI,-14.0,Decline
+2025-12-28,ChatGPT,68.0,AI,-12.0,Decline
+2026-01-04,ChatGPT,78.0,AI,10.0,Growth
+2026-01-11,ChatGPT,78.0,AI,0.0,Stable
+2026-01-18,ChatGPT,80.0,AI,2.0,Growth
+2026-01-25,ChatGPT,79.0,AI,-1.0,Decline
+2026-02-01,ChatGPT,88.0,AI,9.0,Growth
+2026-02-08,ChatGPT,74.0,AI,-14.0,Decline
+2026-02-15,ChatGPT,77.0,AI,3.0,Growth
+2026-02-22,ChatGPT,80.0,AI,3.0,Growth
+2026-03-01,ChatGPT,83.0,AI,3.0,Growth
+2026-03-08,ChatGPT,86.0,AI,3.0,Growth
+2026-03-15,ChatGPT,79.0,AI,-7.0,Decline
+2026-03-22,ChatGPT,82.0,AI,3.0,Growth
+2026-03-29,ChatGPT,79.0,AI,-3.0,Decline
+2026-04-05,ChatGPT,75.0,AI,-4.0,Decline
+2026-04-12,ChatGPT,74.0,AI,-1.0,Decline
+2026-04-19,ChatGPT,73.0,AI,-1.0,Decline
+2026-04-26,ChatGPT,77.0,AI,4.0,Growth
+2026-05-03,ChatGPT,75.0,AI,-2.0,Decline
+2026-05-10,ChatGPT,74.0,AI,-1.0,Decline
+2026-05-17,ChatGPT,73.0,AI,-1.0,Decline
+2026-05-24,ChatGPT,69.0,AI,-4.0,Decline
+2026-05-31,ChatGPT,66.0,AI,-3.0,Decline
+2026-06-07,ChatGPT,65.0,AI,-1.0,Decline
+2026-06-14,ChatGPT,65.0,AI,0.0,Stable
+2026-06-21,ChatGPT,66.0,AI,1.0,Growth
+2026-06-28,ChatGPT,61.0,AI,-5.0,Decline
+2026-07-05,ChatGPT,63.0,AI,2.0,Growth
+2026-07-12,ChatGPT,58.0,AI,-5.0,Decline
+2026-07-19,ChatGPT,60.0,AI,2.0,Growth
+2026-07-26,ChatGPT,59.0,AI,-1.0,Decline
+2026-08-02,ChatGPT,62.0,AI,3.0,Growth
+2026-08-09,ChatGPT,60.0,AI,-2.0,Decline
+2026-08-16,ChatGPT,63.0,AI,3.0,Growth
+2026-08-23,ChatGPT,61.0,AI,-2.0,Decline
+2026-08-30,ChatGPT,73.0,AI,12.0,Growth
+2026-09-06,ChatGPT,70.0,AI,-3.0,Decline
+2026-09-13,ChatGPT,76.0,AI,6.0,Growth
+2026-09-20,ChatGPT,51.0,AI,-25.0,Decline
+2026-09-27,ChatGPT,61.0,AI,10.0,Growth
+2026-10-04,ChatGPT,69.0,AI,8.0,Growth
+2026-10-11,ChatGPT,72.0,AI,3.0,Growth
+2026-10-18,ChatGPT,71.0,AI,-1.0,Decline
+2026-10-25,ChatGPT,68.0,AI,-3.0,Decline
+2026-11-01,ChatGPT,70.0,AI,2.0,Growth
+2026-11-08,ChatGPT,73.0,AI,3.0,Growth
+2026-11-15,ChatGPT,68.0,AI,-5.0,Decline
+2025-11-16,Python,31.0,Programming,,Unknown
+2025-11-23,Python,35.0,Programming,4.0,Growth
+2025-11-30,Python,36.0,Programming,1.0,Growth
+2025-12-07,Python,33.0,Programming,-3.0,Decline
+2025-12-14,Python,31.0,Programming,-2.0,Decline
+2025-12-21,Python,23.0,Programming,-8.0,Decline
+2025-12-28,Python,19.0,Programming,-4.0,Decline
+2026-01-04,Python,25.0,Programming,6.0,Growth
+2026-01-11,Python,25.0,Programming,0.0,Stable
+2026-01-18,Python,29.0,Programming,4.0,Growth
+2026-01-25,Python,36.0,Programming,7.0,Growth
+2026-02-01,Python,32.0,Programming,-4.0,Decline
+2026-02-08,Python,42.0,Programming,10.0,Growth
+2026-02-15,Python,45.0,Programming,3.0,Growth
+2026-02-22,Python,41.0,Programming,-4.0,Decline
+2026-03-01,Python,35.0,Programming,-6.0,Decline
+2026-03-08,Python,35.0,Programming,0.0,Stable
+2026-03-15,Python,34.0,Programming,-1.0,Decline
+2026-03-22,Python,38.0,Programming,4.0,Growth
+2026-03-29,Python,60.0,Programming,22.0,Growth
+2026-04-05,Python,35.0,Programming,-25.0,Decline
+2026-04-12,Python,40.0,Programming,5.0,Growth
+2026-04-19,Python,34.0,Programming,-6.0,Decline
+2026-04-26,Python,36.0,Programming,2.0,Growth
+2026-05-03,Python,35.0,Programming,-1.0,Decline
+2026-05-10,Python,29.0,Programming,-6.0,Decline
+2026-05-17,Python,24.0,Programming,-5.0,Decline
+2026-05-24,Python,24.0,Programming,0.0,Stable
+2026-05-31,Python,23.0,Programming,-1.0,Decline
+2026-06-07,Python,18.0,Programming,-5.0,Decline
+2026-06-14,Python,21.0,Programming,3.0,Growth
+2026-06-21,Python,22.0,Programming,1.0,Growth
+2026-06-28,Python,26.0,Programming,4.0,Growth
+2026-07-05,Python,30.0,Programming,4.0,Growth
+2026-07-12,Python,25.0,Programming,-5.0,Decline
+2026-07-19,Python,21.0,Programming,-4.0,Decline
+2026-07-26,Python,28.0,Programming,7.0,Growth
+2026-08-02,Python,26.0,Programming,-2.0,Decline
+2026-08-09,Python,17.0,Programming,-9.0,Decline
+2026-08-16,Python,15.0,Programming,-2.0,Decline
+2026-08-23,Python,14.0,Programming,-1.0,Decline
+2026-08-30,Python,24.0,Programming,10.0,Growth
+2026-09-06,Python,22.0,Programming,-2.0,Decline
+2026-09-13,Python,33.0,Programming,11.0,Growth
+2026-09-20,Python,23.0,Programming,-10.0,Decline
+2026-09-27,Python,19.0,Programming,-4.0,Decline
+2026-10-04,Python,18.0,Programming,-1.0,Decline
+2026-10-11,Python,19.0,Programming,1.0,Growth
+2026-10-18,Python,17.0,Programming,-2.0,Decline
+2026-10-25,Python,16.0,Programming,-1.0,Decline
+2026-11-01,Python,18.0,Programming,2.0,Growth
+2026-11-08,Python,19.0,Programming,1.0,Growth
+2026-11-15,Python,18.0,Programming,-1.0,Decline
+2025-11-16,Docker,11.0,DevOps,,Unknown
+2025-11-23,Docker,10.0,DevOps,-1.0,Decline
+2025-11-30,Docker,11.0,DevOps,1.0,Growth
+2025-12-07,Docker,10.0,DevOps,-1.0,Decline
+2025-12-14,Docker,10.0,DevOps,0.0,Stable
+2025-12-21,Docker,8.0,DevOps,-2.0,Decline
+2025-12-28,Docker,7.0,DevOps,-1.0,Decline
+2026-01-04,Docker,8.0,DevOps,1.0,Growth
+2026-01-11,Docker,9.0,DevOps,1.0,Growth
+2026-01-18,Docker,10.0,DevOps,1.0,Growth
+2026-01-25,Docker,11.0,DevOps,1.0,Growth
+2026-02-01,Docker,11.0,DevOps,0.0,Stable
+2026-02-08,Docker,17.0,DevOps,6.0,Growth
+2026-02-15,Docker,17.0,DevOps,0.0,Stable
+2026-02-22,Docker,17.0,DevOps,0.0,Stable
+2026-03-01,Docker,11.0,DevOps,-6.0,Decline
+2026-03-08,Docker,13.0,DevOps,2.0,Growth
+2026-03-15,Docker,13.0,DevOps,0.0,Stable
+2026-03-22,Docker,16.0,DevOps,3.0,Growth
+2026-03-29,Docker,18.0,DevOps,2.0,Growth
+2026-04-05,Docker,13.0,DevOps,-5.0,Decline
+2026-04-12,Docker,11.0,DevOps,-2.0,Decline
+2026-04-19,Docker,10.0,DevOps,-1.0,Decline
+2026-04-26,Docker,12.0,DevOps,2.0,Growth
+2026-05-03,Docker,11.0,DevOps,-1.0,Decline
+2026-05-10,Docker,9.0,DevOps,-2.0,Decline
+2026-05-17,Docker,9.0,DevOps,0.0,Stable
+2026-05-24,Docker,10.0,DevOps,1.0,Growth
+2026-05-31,Docker,10.0,DevOps,0.0,Stable
+2026-06-07,Docker,8.0,DevOps,-2.0,Decline
+2026-06-14,Docker,8.0,DevOps,0.0,Stable
+2026-06-21,Docker,9.0,DevOps,1.0,Growth
+2026-06-28,Docker,11.0,DevOps,2.0,Growth
+2026-07-05,Docker,11.0,DevOps,0.0,Stable
+2026-07-12,Docker,10.0,DevOps,-1.0,Decline
+2026-07-19,Docker,7.0,DevOps,-3.0,Decline
+2026-07-26,Docker,12.0,DevOps,5.0,Growth
+2026-08-02,Docker,11.0,DevOps,-1.0,Decline
+2026-08-09,Docker,7.0,DevOps,-4.0,Decline
+2026-08-16,Docker,6.0,DevOps,-1.0,Decline
+2026-08-23,Docker,6.0,DevOps,0.0,Stable
+2026-08-30,Docker,10.0,DevOps,4.0,Growth
+2026-09-06,Docker,9.0,DevOps,-1.0,Decline
+2026-09-13,Docker,19.0,DevOps,10.0,Growth
+2026-09-20,Docker,8.0,DevOps,-11.0,Decline
+2026-09-27,Docker,5.0,DevOps,-3.0,Decline
+2026-10-04,Docker,5.0,DevOps,0.0,Stable
+2026-10-11,Docker,4.0,DevOps,-1.0,Decline
+2026-10-18,Docker,5.0,DevOps,1.0,Growth
+2026-10-25,Docker,6.0,DevOps,1.0,Growth
+2026-11-01,Docker,5.0,DevOps,-1.0,Decline
+2026-11-08,Docker,5.0,DevOps,0.0,Stable
+2026-11-15,Docker,5.0,DevOps,0.0,Stable
+2025-11-16,Machine Learning,3.0,AI,,Unknown
+2025-11-23,Machine Learning,4.0,AI,1.0,Growth
+2025-11-30,Machine Learning,4.0,AI,0.0,Stable
+2025-12-07,Machine Learning,4.0,AI,0.0,Stable
+2025-12-14,Machine Learning,4.0,AI,0.0,Stable
+2025-12-21,Machine Learning,3.0,AI,-1.0,Decline
+2025-12-28,Machine Learning,3.0,AI,0.0,Stable
+2026-01-04,Machine Learning,3.0,AI,0.0,Stable
+2026-01-11,Machine Learning,3.0,AI,0.0,Stable
+2026-01-18,Machine Learning,4.0,AI,1.0,Growth
+2026-01-25,Machine Learning,6.0,AI,2.0,Growth
+2026-02-01,Machine Learning,6.0,AI,0.0,Stable
+2026-02-08,Machine Learning,10.0,AI,4.0,Growth
+2026-02-15,Machine Learning,14.0,AI,4.0,Growth
+2026-02-22,Machine Learning,11.0,AI,-3.0,Decline
+2026-03-01,Machine Learning,3.0,AI,-8.0,Decline
+2026-03-08,Machine Learning,4.0,AI,1.0,Growth
+2026-03-15,Machine Learning,6.0,AI,2.0,Growth
+2026-03-22,Machine Learning,7.0,AI,1.0,Growth
+2026-03-29,Machine Learning,11.0,AI,4.0,Growth
+2026-04-05,Machine Learning,7.0,AI,-4.0,Decline
+2026-04-12,Machine Learning,5.0,AI,-2.0,Decline
+2026-04-19,Machine Learning,4.0,AI,-1.0,Decline
+2026-04-26,Machine Learning,6.0,AI,2.0,Growth
+2026-05-03,Machine Learning,5.0,AI,-1.0,Decline
+2026-05-10,Machine Learning,4.0,AI,-1.0,Decline
+2026-05-17,Machine Learning,4.0,AI,0.0,Stable
+2026-05-24,Machine Learning,4.0,AI,0.0,Stable
+2026-05-31,Machine Learning,3.0,AI,-1.0,Decline
+2026-06-07,Machine Learning,2.0,AI,-1.0,Decline
+2026-06-14,Machine Learning,3.0,AI,1.0,Growth
+2026-06-21,Machine Learning,3.0,AI,0.0,Stable
+2026-06-28,Machine Learning,5.0,AI,2.0,Growth
+2026-07-05,Machine Learning,6.0,AI,1.0,Growth
+2026-07-12,Machine Learning,5.0,AI,-1.0,Decline
+2026-07-19,Machine Learning,5.0,AI,0.0,Stable
+2026-07-26,Machine Learning,5.0,AI,0.0,Stable
+2026-08-02,Machine Learning,5.0,AI,0.0,Stable
+2026-08-09,Machine Learning,3.0,AI,-2.0,Decline
+2026-08-16,Machine Learning,2.0,AI,-1.0,Decline
+2026-08-23,Machine Learning,1.0,AI,-1.0,Decline
+2026-08-30,Machine Learning,6.0,AI,5.0,Growth
+2026-09-06,Machine Learning,5.0,AI,-1.0,Decline
+2026-09-13,Machine Learning,16.0,AI,11.0,Growth
+2026-09-20,Machine Learning,5.0,AI,-11.0,Decline
+2026-09-27,Machine Learning,1.0,AI,-4.0,Decline
+2026-10-04,Machine Learning,1.0,AI,0.0,Stable
+2026-10-11,Machine Learning,1.0,AI,0.0,Stable
+2026-10-18,Machine Learning,0.5,AI,-0.5,Decline
+2026-10-25,Machine Learning,0.0,AI,-0.5,Decline
+2026-11-01,Machine Learning,0.5,AI,0.5,Growth
+2026-11-08,Machine Learning,1.0,AI,0.5,Growth
+2026-11-15,Machine Learning,1.0,AI,0.0,Stable
+2025-11-16,Data Science,3.0,Analytics,,Unknown
+2025-11-23,Data Science,3.0,Analytics,0.0,Stable
+2025-11-30,Data Science,3.0,Analytics,0.0,Stable
+2025-12-07,Data Science,3.0,Analytics,0.0,Stable
+2025-12-14,Data Science,3.0,Analytics,0.0,Stable
+2025-12-21,Data Science,2.0,Analytics,-1.0,Decline
+2025-12-28,Data Science,2.0,Analytics,0.0,Stable
+2026-01-04,Data Science,2.0,Analytics,0.0,Stable
+2026-01-11,Data Science,2.0,Analytics,0.0,Stable
+2026-01-18,Data Science,3.0,Analytics,1.0,Growth
+2026-01-25,Data Science,4.0,Analytics,1.0,Growth
+2026-02-01,Data Science,3.0,Analytics,-1.0,Decline
+2026-02-08,Data Science,4.0,Analytics,1.0,Growth
+2026-02-15,Data Science,5.0,Analytics,1.0,Growth
+2026-02-22,Data Science,5.0,Analytics,0.0,Stable
+2026-03-01,Data Science,1.0,Analytics,-4.0,Decline
+2026-03-08,Data Science,2.0,Analytics,1.0,Growth
+2026-03-15,Data Science,3.0,Analytics,1.0,Growth
+2026-03-22,Data Science,4.0,Analytics,1.0,Growth
+2026-03-29,Data Science,4.0,Analytics,0.0,Stable
+2026-04-05,Data Science,3.0,Analytics,-1.0,Decline
+2026-04-12,Data Science,2.0,Analytics,-1.0,Decline
+2026-04-19,Data Science,2.0,Analytics,0.0,Stable
+2026-04-26,Data Science,3.0,Analytics,1.0,Growth
+2026-05-03,Data Science,3.0,Analytics,0.0,Stable
+2026-05-10,Data Science,2.0,Analytics,-1.0,Decline
+2026-05-17,Data Science,2.0,Analytics,0.0,Stable
+2026-05-24,Data Science,2.0,Analytics,0.0,Stable
+2026-05-31,Data Science,2.0,Analytics,0.0,Stable
+2026-06-07,Data Science,2.0,Analytics,0.0,Stable
+2026-06-14,Data Science,2.0,Analytics,0.0,Stable
+2026-06-21,Data Science,2.0,Analytics,0.0,Stable
+2026-06-28,Data Science,2.0,Analytics,0.0,Stable
+2026-07-05,Data Science,2.0,Analytics,0.0,Stable
+2026-07-12,Data Science,2.0,Analytics,0.0,Stable
+2026-07-19,Data Science,2.0,Analytics,0.0,Stable
+2026-07-26,Data Science,2.0,Analytics,0.0,Stable
+2026-08-02,Data Science,2.0,Analytics,0.0,Stable
+2026-08-09,Data Science,1.0,Analytics,-1.0,Decline
+2026-08-16,Data Science,1.0,Analytics,0.0,Stable
+2026-08-23,Data Science,1.0,Analytics,0.0,Stable
+2026-08-30,Data Science,2.0,Analytics,1.0,Growth
+2026-09-06,Data Science,2.0,Analytics,0.0,Stable
+2026-09-13,Data Science,5.0,Analytics,3.0,Growth
+2026-09-20,Data Science,2.0,Analytics,-3.0,Decline
+2026-09-27,Data Science,1.0,Analytics,-1.0,Decline
+2026-10-04,Data Science,0.5,Analytics,-0.5,Decline
+2026-10-11,Data Science,0.0,Analytics,-0.5,Decline
+2026-10-18,Data Science,0.0,Analytics,0.0,Stable
+2026-10-25,Data Science,0.5,Analytics,0.5,Growth
+2026-11-01,Data Science,0.5,Analytics,0.0,Stable
+2026-11-08,Data Science,0.5,Analytics,0.0,Stable
+2026-11-15,Data Science,0.5,Analytics,0.0,Stable
